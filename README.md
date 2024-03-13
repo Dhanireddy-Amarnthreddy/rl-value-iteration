@@ -94,10 +94,9 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 ## OUTPUT:
 
 <img width="444" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/rl-value-iteration/assets/94165103/0e508d1a-7e33-4e32-ba6c-90f9bc7a066d">
-
+<br>
 <img width="680" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/rl-value-iteration/assets/94165103/10379b49-c588-4d8f-ae5a-315501f2b4e4">
-
-
+<br>
 <img width="796" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/rl-value-iteration/assets/94165103/a1331efc-df30-4856-912a-a4baa901e4fe">
 
 
